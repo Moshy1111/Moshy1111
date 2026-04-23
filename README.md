@@ -5,7 +5,7 @@ focused on **gameplay & engine programming** in C++ and Unreal Engine 5.
 I'm especially interested in AI systems, low-level engine work, and making 
 games that feel good to play.
 
-Currently: developing **Pointman**, a horror shooter in UE5, and looking for 
+Currently: developing **Pointman**, a horror shooter in UE5 among other projects such as Delievery Rush, and looking for 
 a graduate or junior gameplay programmer role in the UK.
 
 ---
