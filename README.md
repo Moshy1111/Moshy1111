@@ -58,7 +58,7 @@ both client types.
 
 ### 📫 Get in touch
 
-🌐 **Portfolio** — [mohamedelshal.dev](https://mohamedelshal.dev) *(coming soon)*  
+🌐 **Portfolio** — [mohamedelshal.dev](https://mohamedelshal.dev) *(being reworked)*  
 💼 **LinkedIn** — [mohamed-elshal-3780b4285](https://linkedin.com/in/mohamed-elshal-3780b4285)  
 
 ---
