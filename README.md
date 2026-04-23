@@ -8,6 +8,7 @@ games that feel good to play.
 Currently: developing **Pointman**, a horror shooter in UE5 among other projects such as Delievery Rush, and looking for 
 a graduate or junior gameplay programmer role in the UK.
 
+Do Note: Currently my projects are in the process of being moved from my old github to this new one, some links may not work and some projects may be missing.
 ---
 
 ### 🔧 What I work with
